@@ -293,12 +293,11 @@
     .images {
         width: 50% !important;
         height: 60%;
-        padding: 5px;
 
     }
 
     .images2 {
-
+padding:35px !important ;
         width: auto !important;
         height: 186px !important;
     }
@@ -320,11 +319,11 @@
     }
 
     .dipankarImg {
-        margin-top: -50px !important;
+        margin-top: -43px !important;
     }
 
     .social {
-        margin-bottom: 35px !important;
+        margin-bottom: 10px !important;
     }
     .social1{
         margin-bottom: 8px !important;
