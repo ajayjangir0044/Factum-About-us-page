@@ -1,0 +1,359 @@
+#mid {
+    margin-top: 50px;
+}
+
+#ourTeam {
+    margin-top: 52px;
+
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.teamDiv img {
+    margin-top: 60px !important;
+    padding: 80px 120px 120px 80px;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+
+    margin-bottom: 10px !important;
+
+}
+
+.teamImg {
+    text-align: center !important;
+    margin-left: 550px;
+}
+
+.leader {
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 50px !important;
+    margin-bottom: 80px;
+}
+
+#leadership {
+    margin-top: 50px;
+}
+
+#div1 {
+    margin-left: 190px !important;
+}
+
+.fstImgDiv {
+    text-align: center;
+}
+
+.sweta {
+    margin-left: 390px;
+
+
+}
+
+
+.social {
+    margin: 7px 10px 0px 10px;
+    font-size: 11px;
+    color: #6a6b7c;
+}
+
+.social:hover {
+    cursor: pointer;
+    color: #ff4c68;
+}
+
+.secondImgDiv {
+    margin-top: 50px;
+    text-align: center;
+    padding-left: 12.5%;
+    padding-right: 11.8%;
+    margin-bottom: 20px;
+    padding-bottom: 55px;
+
+}
+
+.fstpara {
+    color: black !important;
+    margin-bottom: 0;
+    margin-top: 15px;
+    font-size: 17px;
+}
+
+.secondPara {
+    font-size: 13px;
+    margin-top: -5px;
+    margin-bottom: 0;
+
+
+}
+
+
+.images {
+    max-width: 100%;
+    width: 170px;
+    height: 170px;
+    padding: 8px;
+
+}
+
+
+
+.para1 {
+    color: black;
+    line-height: 1;
+    margin-top: 10px;
+    font-size: 19px;
+    margin-left: 70px;
+}
+
+.para2 {
+    margin-left: 93px;
+    line-height: 0;
+    font-size: 14px;
+
+}
+
+.aboutUspara {
+    margin-top: 20px;
+    line-height: 2 !important;
+}
+
+#div2 {
+    margin-left: 140px;
+
+}
+
+#div2 img {
+    height: auto;
+    width: auto;
+}
+
+@media (max-width: 1300px) {
+    #div1 {
+        margin-left: 34px !important;
+    }
+
+    #div2 img {
+        width: 100%;
+        height: auto;
+    }
+
+    .aboutImg {
+        position: relative;
+        top: 50px;
+    }
+
+    .teamDiv img {
+        padding: 45px !important;
+        padding-bottom: 80px !important;
+    }
+
+    #div2 {
+        margin-left: 250px;
+    }
+
+
+    .sweta {
+        margin-left: 180px;
+    }
+
+    .sweta,
+    .aman,
+    .ritik {
+        padding: 0px !important;
+
+
+    }
+
+    .ritik {
+        margin: 0px 60px 0px 60px !important;
+    }
+
+
+
+    img {
+        padding: 10px !important;
+        margin: 0 !important;
+        width: auto;
+        height: auto;
+    }
+
+
+
+    .secondImgDiv {
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+
+    #ourTeam {
+        padding: 0px !important;
+        margin-top: 52px !important;
+    }
+
+
+}
+
+@media (max-width: 900px) {
+    #div1 {
+        margin-left: 22px !important;
+    }
+
+    #ourTeam {
+        margin-top: 45px !important;
+        padding: 0px !important;
+    }
+
+
+    .teamDiv img {
+        padding: 25px !important;
+
+        margin-bottom: 45px !important;
+    }
+
+    .images {
+        padding: 30px !important;
+        width: auto !important;
+        height: auto !important;
+
+    }
+
+    .images2 {
+        width: auto !important;
+        height: auto !important;
+        padding: 16px !important;
+
+    }
+
+    .leader {
+        margin-bottom: 0px !important;
+        padding: 45px 0px 0px 0px !important;
+    }
+
+    .sweta {
+        margin-left: 30px;
+    }
+
+    .secondImgDiv {
+        padding: 0px, 0px, 0px, 40px;
+    }
+
+    .aboutImg {
+        height: auto !important;
+        width: auto;
+    }
+
+    #div2 {
+        margin-left: 10px;
+        padding: 20px;
+        padding-top: 0px !important;
+        margin-top: 0px !important;
+    }
+
+    .aboutImg {
+        width: 50% !important;
+        margin-left: 180px !important;
+        position: relative;
+        top: 0px;
+
+    }
+
+
+}
+
+@media (max-width: 600px) {
+    .teamDiv img {
+
+        margin-bottom: 50px !important;
+        padding: 100px 105px 105px 100px;
+    }
+
+    #div1 {
+        margin-left: 0px !important;
+    }
+
+    #leadership {
+        margin-top: 30px;
+    }
+
+    #div2 {}
+
+    #mid {
+        margin-top: 0px;
+    }
+
+    .aboutImg {
+        position: relative;
+        top: 0px;
+        width: 100% !important;
+        height: auto !important;
+        padding: 0px;
+        margin: 0px !important;
+    }
+
+    .images {
+        width: 50% !important;
+        height: 60%;
+        padding: 5px;
+
+    }
+
+    .images2 {
+
+        width: auto !important;
+        height: 186px !important;
+    }
+
+    .ritik {
+
+
+        margin: 10px 0px 0px 0px !important;
+
+    }
+
+    .aman {
+        margin-top: 10px !important;
+    }
+
+    .sweta {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .dipankarImg {
+        margin-top: -20px !important;
+    }
+
+    .social {
+        margin-bottom: 50px !important;
+    }
+
+    .para2 {
+
+        text-align: center !important;
+        margin-left: 0;
+        font-size: 15px;
+    }
+
+    .para1 {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .secondImgDiv {
+        padding-bottom: 40px;
+    }
+
+
+
+    .leader {
+        margin-bottom: 40px;
+    }
+
+    .teamDiv img {
+        padding: 5px !important;
+
+    }
+
+
+
+}
